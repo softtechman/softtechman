@@ -10,7 +10,7 @@
 #
 
 # I'm Gouki Sanwa
-- 🔭 &nbsp;I’m currently working on projects integrated with local LLMs.
+- 🔭 &nbsp;I’m currently working on projects associated with Blockchain.
 - 🌱 &nbsp;I’m currently learning Swift, .NET
 - 💬 &nbsp;Ask me about anything related to TypeScript, Python, Next.js, Go.
 - 👨‍💻 &nbsp;Read more about my projects at [sumeetaulakh.com](https://www.sumeetaulakh.com)
