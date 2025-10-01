@@ -1,10 +1,51 @@
-## ![Hyperledger Logo](https://github.com/hyperledger/.github/raw/main/logo.svg)
+``` bash
+██╗░░██╗██╗ ████████╗██╗░░██╗███████╗██████╗░███████╗
+██║░░██║██║ ╚══██╔══╝██║░░██║██╔════╝██╔══██╗██╔════╝
+███████║██║ ░░░██║░░░███████║█████╗░░██████╔╝█████╗░░
+██╔══██║██║ ░░░██║░░░██╔══██║██╔══╝░░██╔══██╗██╔══╝░░
+██║░░██║██║ ░░░██║░░░██║░░██║███████╗██║░░██║███████╗
+╚═╝░░╚═╝╚═╝ ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝
+```
 
-The mission of Hyperledger is to foster and coordinate the premier community of software developers building enterprise grade open source software, in the form of platforms, libraries, tools and solutions, for multiparty systems using blockchain, distributed ledger, and related technologies; host the technical infrastructure for the Foundation, establishing a neutral home for community infrastructure, meetings, events, and collaborative discussions; drive broad adoption of the technology by building a substantial and diverse ecosystem of solution providers delivering production solutions and networks, and organizing industry end-users; advocate for the use and adoption of enterprise multiparty systems technologies through marketing, education and outreach; and work with other aligned organizations to accelerate implementation and public acceptance.
+#
 
-This organization contains the repositories for Hyperledger and many of the hosted projects and working groups. Below is the list of core Hyperledger repositories hosted here.
+# I'm Sumeet Singh Aulakh
 
-- [TAC](https://lf-decentralized-trust.github.io/governance/) is the home of the TAC processes, policies, programs, and meeting minutes. You can most easily view these materials at [lf-decentralized-trust.github.io/governance](https://lf-decentralized-trust.github.io/governance/)
-- The [hyperledger-dlt-landscape](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) is the source for the Hyperledger Foundation DLT Landscape and where you can suggest changes and new entries. You can view the landscape at [dltlandscape.hyperledger.org/](https://dltlandscape.hyperledger.org/)
+- 🔭 &nbsp;I’m currently working on projects integrated with local LLMs.
+- 🌱 &nbsp;I’m currently learning Swift, .NET
+- 💬 &nbsp;Ask me about anything related to TypeScript, Python, Next.js, Go.
+- 👨‍💻 &nbsp;Read more about my projects at [sumeetaulakh.com](https://www.sumeetaulakh.com)
 
-There are a number of ways that you can get involved with the [Hyperledger community](http://hyperledger.org/community): participate on the [Hyperledger mailing lists](http://lists.hyperledger.org/), start or join a [Hyperledger meetup](http://www.meetup.com/pro/hyperledger/), or join us on Hyperledger's Discord server: [![Join Hyperledger Discord Server](https://discordapp.com/api/guilds/905194001349627914/widget.png)](https://discord.gg/hyperledger)
+<br/>
+
+## About me
+
+I am a Full Stack Developer with 2+ years of experience in developing enterprise applications and open-source software.
+
+<br/>
+
+## Tech Stack
+
+<p align="left"> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" heig
+ht="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<br/>
+
+## Connect with me
+
+<p>
+<a href="https://instagram.com/sumeetxaulakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumeetxaulakh" height="30" width="40" />Instagram</a><br/><br/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumeet-singh-aulakh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumeet-singh-aulakh/" height="30" width="40"  />Linkedin</a><br/><br/>
+
+</p>
