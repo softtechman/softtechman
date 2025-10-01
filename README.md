@@ -9,8 +9,7 @@
 
 #
 
-# I'm Sumeet Singh Aulakh
-
+# I'm Gouki Sanwa
 - 🔭 &nbsp;I’m currently working on projects integrated with local LLMs.
 - 🌱 &nbsp;I’m currently learning Swift, .NET
 - 💬 &nbsp;Ask me about anything related to TypeScript, Python, Next.js, Go.
@@ -20,7 +19,7 @@
 
 ## About me
 
-I am a Full Stack Developer with 2+ years of experience in developing enterprise applications and open-source software.
+I am a Blockchian & Full Stack Developer with 7+ years of experience in developing enterprise applications and open-source software.
 
 <br/>
 
