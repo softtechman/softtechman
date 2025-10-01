@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-Hey there! I'm @SquilliamX, a passionate web3 developer and blockchain enthusiast who believes in the power of blockchain to reshape our world.
+Hey there! I'm @Gouki Sanwa, a passionate web3 developer and blockchain enthusiast who believes in the power of blockchain to reshape our world.
 
 I'm constantly learning, exploring new blockchain innovations, and love collaborating with fellow web3 enthusiasts to create impactful solutions. 
 
